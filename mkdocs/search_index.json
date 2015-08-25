@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "MatNN - An Neural Network Framework for MATLAB\n\n\nMatNN\n is a MATLAB framework for neural network training and testing. It aims to provide the similarity of \nCaffe\n, and elastic workflow of \nMatConvNet\n.\n\n\nThis toolbox requires \nMatConvNet\n to be installed in your system and added to your MATLAB path.\n\n\nFeatures\n\n\nMatNN\n provides some features you may familiar with \nCaffe\n or other CNN tools:\n+ Weight Sharing\n+ Multiple Losses\n+ Custom data sampling algorithm\n+ Custom layer with custom parameters/weights/loss/...\n+ Multiple GPUs support\n\n\nLicense\n\n\nMatNN\n is under the Simplified BSD License.\nIf you use \nMatNN\n in your work, please refer to the this site \nMatNN\n.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#matnn-an-neural-network-framework-for-matlab", 
+            "text": "MatNN  is a MATLAB framework for neural network training and testing. It aims to provide the similarity of  Caffe , and elastic workflow of  MatConvNet .  This toolbox requires  MatConvNet  to be installed in your system and added to your MATLAB path.", 
+            "title": "MatNN - An Neural Network Framework for MATLAB"
+        }, 
+        {
+            "location": "/#features", 
+            "text": "MatNN  provides some features you may familiar with  Caffe  or other CNN tools:\n+ Weight Sharing\n+ Multiple Losses\n+ Custom data sampling algorithm\n+ Custom layer with custom parameters/weights/loss/...\n+ Multiple GPUs support", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/#license", 
+            "text": "MatNN  is under the Simplified BSD License.\nIf you use  MatNN  in your work, please refer to the this site  MatNN .", 
+            "title": "License"
+        }, 
+        {
+            "location": "/gs/install/", 
+            "text": "Installation\n\n\nFollow the steps to install \nMatNN\n:\n\n\n\n\nMatNN\n requires \nMatConvNet\n to be installed on your system, please install it first.\n\n\nDownload and unzip the source code to a directory you want, assume the path to this directory is \nMatNN\n.\n\n\nRun this command in Matlab to add \nMatNN\n to your Matlab path:\n   \nmatlab\n   addpath \nMatNN\n;\n\n\nIt's done. Now you can use MatNN in your project!", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/gs/install/#installation", 
+            "text": "Follow the steps to install  MatNN :   MatNN  requires  MatConvNet  to be installed on your system, please install it first.  Download and unzip the source code to a directory you want, assume the path to this directory is  MatNN .  Run this command in Matlab to add  MatNN  to your Matlab path:\n    matlab\n   addpath  MatNN ;  It's done. Now you can use MatNN in your project!", 
+            "title": "Installation"
+        }
+    ]
+}
